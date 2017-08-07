@@ -1,0 +1,5 @@
+<root>
+    <item name='android.view.LayoutInflater android.view.View inflate(int, android.view.ViewGroup)'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
